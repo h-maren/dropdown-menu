@@ -1,0 +1,25 @@
+ul, li {
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+
+}
+
+.nav-menu, .nav-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.nav-links {
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+}
+
+.hidden {
+    display: none;
+}
